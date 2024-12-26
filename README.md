@@ -4,7 +4,7 @@ The **DSA-Search-Engine** is a custom search engine project centered on data str
 
 1. **Web Scraping**  
    - Extract problem data from coding platforms (e.g., LeetCode, CodeChef, HackerRank, Codeforces).
-   - Use Python's `BeautifulSoup` and `Selenium` to identify and scrape problem titles, URLs, and descriptions.
+   - Use Python's `BeautifulSoup` to identify and scrape problem titles, URLs, and descriptions.
    - Customizable scraping logic for different platforms by adjusting HTML tag selection.
 
 2. **TF-IDF Calculation**  
